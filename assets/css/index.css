@@ -111,3 +111,9 @@ body{
 #app input[type="checkbox"]:checked ~ span{
     color: #154e6b;
 }
+
+a{
+    text-decoration: none;
+    float: right;
+    color: white;
+}
